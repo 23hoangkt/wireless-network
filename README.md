@@ -1,4 +1,5 @@
-# hệ thống báo cháy mini sử dụng mqtt 
+# Hệ thống báo cháy mini sử dụng MQTT 
+
 <p align="center">  
-  <img src="overview.png" alt="Pin Connection Diagram" width="600"/>  
+  <img src="Screenshot 2024-12-25 020705.png" alt="Overview" width="600"/>  
 </p>
